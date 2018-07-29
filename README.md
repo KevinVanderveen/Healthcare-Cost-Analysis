@@ -5,7 +5,7 @@
 
 ## Installation
 
-For those interested in downloading the notebook and running the scripts, the [requirements.txt](requirements.txt) file is included. As is customary, the following shell command will ensure the necessary packages are installed to a local virtual environment.  
+For those interested in cloning the repository and running the scripts, the [requirements.txt](requirements.txt) file is included. As is customary, the following shell command will ensure the necessary packages are installed to a local virtual environment.  
 
 ```
 pip install -r requirements.txt
