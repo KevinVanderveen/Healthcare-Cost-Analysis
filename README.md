@@ -1,7 +1,7 @@
 ## Healthcare Spending and Outcomes
 
 
-"You get what you pay for."  The underlying assumption of this well known idiom suggests that when a product costs more, it has a higher value.  In this [Jupyter Notebook](Healthcare Spending and Outcomes.ipynb), we explore the validity of this idiom with regards to healthcare spending.  In other words, does increased healthcare spending result in better health outcomes?  To examine this question, we will draw upon data supplied by the CIA's [World Factbook](https://www.cia.gov/library/publications/the-world-factbook/rankorder/rankorderguide.html).
+"You get what you pay for."  The underlying assumption of this well known idiom suggests that when a product costs more, it has a higher value.  In this [Jupyter Notebook]("Healthcare Spending and Outcomes.ipynb"), we explore the validity of this idiom with regards to healthcare spending.  In other words, does increased healthcare spending result in better health outcomes?  To examine this question, we will draw upon data supplied by the CIA's [World Factbook](https://www.cia.gov/library/publications/the-world-factbook/rankorder/rankorderguide.html).
 
 ## Installation
 
