@@ -29,11 +29,11 @@ While no clear relationship appears to exist between the percentage of GDP a nat
 
 ![](figures/figure4.png)
 
-Visualization of a scatter plot of per capita healthcare spending and maternal mortality similarly appears to demonstrate a non-linear relationship above which a lower maternal mortality does not appear to be correlated (around \$2,650).
+Visualization of a scatter plot of annual per capita healthcare spending and maternal mortality similarly appears to demonstrate a non-linear relationship above which a lower maternal mortality does not appear to be correlated (around \$2,650).
 
 ![](figures/figure5.png)
 
-The scatter plot of per capita healthcare spending and infant mortality appears somewhat similar to that of the plot for maternal mortality.  Likewise, there is a similar value of per capita GDP above which improvements in infant mortality do not appear to be correlated (\$2,725).
+The scatter plot of per annual capita healthcare spending and infant mortality appears somewhat similar to that of the plot for maternal mortality.  Likewise, there is a similar value of annual per capita spending above which improvements in infant mortality do not appear to be correlated (\$2,725).
 
 ![](figures/figure6.png)
 
