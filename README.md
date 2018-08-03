@@ -25,7 +25,7 @@ Visualization of the scatter plot of the percentage of GDP spent on healthcare v
 
 ![](figures/figure2.png)
 
-There appears to be some relationship between per capita healthcare spending and life expectancy based upon the following scatter plot (again, each dot represents a single country).  However the relationship does not appear linear and there appears to be a value of annual per capita healthcare spending above which there is no correlation with a longer life expectancy (around $2,750).
+While no clear relationship appears to exist between the percentage of GDP a nation spends on healthcare and life expectancy, there appears to be some relationship between *per capita healthcare spending* and life expectancy based upon the following scatter plot (again, each dot represents a single country).  However the relationship does not appear linear and there appears to be a value of annual per capita healthcare spending above which there is no correlation with a longer life expectancy (around $2,750).
 
 ![](figures/figure4.png)
 
